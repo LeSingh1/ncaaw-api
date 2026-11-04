@@ -1,69 +1,111 @@
 {
   "sport": "basketball",
   "league": "womens-college-basketball",
-  "date": "20261103",
-  "count": 3,
+  "date": "20261104",
+  "count": 5,
   "games": [
     {
-      "id": "401915906",
-      "name": "Green Bay Phoenix at Duke Blue Devils",
-      "shortName": "GB @ DUKE",
-      "date": "2026-11-04T00:00Z",
+      "id": "401913736",
+      "name": "Campbell Fighting Camels at NC State Wolfpack",
+      "shortName": "CAM @ NCSU",
+      "date": "2026-11-04T23:00Z",
       "state": "pre",
-      "status": "11/3 - 7:00 PM EST",
+      "status": "11/4 - 6:00 PM EST",
       "completed": false,
       "home": {
-        "id": "150",
-        "abbr": "DUKE",
-        "name": "Duke Blue Devils",
+        "id": "152",
+        "abbr": "NCSU",
+        "name": "NC State Wolfpack",
         "score": "0"
       },
       "away": {
-        "id": "2739",
-        "abbr": "GB",
-        "name": "Green Bay Phoenix",
+        "id": "2097",
+        "abbr": "CAM",
+        "name": "Campbell Fighting Camels",
         "score": "0"
       }
     },
     {
-      "id": "401907163",
-      "name": "Rhode Island Rams at West Virginia Mountaineers",
-      "shortName": "URI @ WVU",
-      "date": "2026-11-04T00:00Z",
+      "id": "401927060",
+      "name": "Detroit Mercy Titans at Illinois Fighting Illini",
+      "shortName": "DETM @ ILL",
+      "date": "2026-11-05T00:00Z",
       "state": "pre",
-      "status": "11/3 - 7:00 PM EST",
+      "status": "11/4 - 7:00 PM EST",
       "completed": false,
       "home": {
-        "id": "277",
-        "abbr": "WVU",
-        "name": "West Virginia Mountaineers",
+        "id": "356",
+        "abbr": "ILL",
+        "name": "Illinois Fighting Illini",
         "score": "0"
       },
       "away": {
-        "id": "227",
-        "abbr": "URI",
-        "name": "Rhode Island Rams",
+        "id": "2174",
+        "abbr": "DETM",
+        "name": "Detroit Mercy Titans",
         "score": "0"
       }
     },
     {
-      "id": "401917938",
-      "name": "Oral Roberts Golden Eagles at TCU Horned Frogs",
-      "shortName": "ORU @ TCU",
-      "date": "2026-11-04T00:30Z",
+      "id": "401913884",
+      "name": "Queens University Royals at Vanderbilt Commodores",
+      "shortName": "QUC @ VAN",
+      "date": "2026-11-05T00:30Z",
       "state": "pre",
-      "status": "11/3 - 7:30 PM EST",
+      "status": "11/4 - 7:30 PM EST",
       "completed": false,
       "home": {
-        "id": "2628",
-        "abbr": "TCU",
-        "name": "TCU Horned Frogs",
+        "id": "238",
+        "abbr": "VAN",
+        "name": "Vanderbilt Commodores",
         "score": "0"
       },
       "away": {
-        "id": "198",
-        "abbr": "ORU",
-        "name": "Oral Roberts Golden Eagles",
+        "id": "2511",
+        "abbr": "QUC",
+        "name": "Queens University Royals",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401918840",
+      "name": "Fairleigh Dickinson Knights at Texas Longhorns",
+      "shortName": "FDU @ TEX",
+      "date": "2026-11-05T01:00Z",
+      "state": "pre",
+      "status": "11/4 - 8:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "251",
+        "abbr": "TEX",
+        "name": "Texas Longhorns",
+        "score": "0"
+      },
+      "away": {
+        "id": "161",
+        "abbr": "FDU",
+        "name": "Fairleigh Dickinson Knights",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401906075",
+      "name": "Stetson Hatters at Louisville Cardinals",
+      "shortName": "STET @ LOU",
+      "date": "2026-11-05T01:00Z",
+      "state": "pre",
+      "status": "11/4 - 8:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "97",
+        "abbr": "LOU",
+        "name": "Louisville Cardinals",
+        "score": "0"
+      },
+      "away": {
+        "id": "56",
+        "abbr": "STET",
+        "name": "Stetson Hatters",
         "score": "0"
       }
     }
