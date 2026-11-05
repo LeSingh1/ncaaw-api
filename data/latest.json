@@ -1,111 +1,216 @@
 {
   "sport": "basketball",
   "league": "womens-college-basketball",
-  "date": "20261104",
-  "count": 5,
+  "date": "20261105",
+  "count": 10,
   "games": [
     {
-      "id": "401913736",
-      "name": "Campbell Fighting Camels at NC State Wolfpack",
-      "shortName": "CAM @ NCSU",
-      "date": "2026-11-04T23:00Z",
+      "id": "401911737",
+      "name": "UConn Huskies at Michigan Wolverines",
+      "shortName": "CONN @ MICH",
+      "date": "2026-11-05T23:30Z",
       "state": "pre",
-      "status": "11/4 - 6:00 PM EST",
+      "status": "11/5 - 6:30 PM EST",
       "completed": false,
       "home": {
-        "id": "152",
-        "abbr": "NCSU",
-        "name": "NC State Wolfpack",
+        "id": "130",
+        "abbr": "MICH",
+        "name": "Michigan Wolverines",
         "score": "0"
       },
       "away": {
-        "id": "2097",
-        "abbr": "CAM",
-        "name": "Campbell Fighting Camels",
+        "id": "41",
+        "abbr": "CONN",
+        "name": "UConn Huskies",
         "score": "0"
       }
     },
     {
-      "id": "401927060",
-      "name": "Detroit Mercy Titans at Illinois Fighting Illini",
-      "shortName": "DETM @ ILL",
-      "date": "2026-11-05T00:00Z",
+      "id": "401929059",
+      "name": "Northern Kentucky Norse at Kentucky Wildcats",
+      "shortName": "NKU @ UK",
+      "date": "2026-11-05T23:30Z",
       "state": "pre",
-      "status": "11/4 - 7:00 PM EST",
+      "status": "11/5 - 6:30 PM EST",
       "completed": false,
       "home": {
-        "id": "356",
-        "abbr": "ILL",
-        "name": "Illinois Fighting Illini",
+        "id": "96",
+        "abbr": "UK",
+        "name": "Kentucky Wildcats",
         "score": "0"
       },
       "away": {
-        "id": "2174",
-        "abbr": "DETM",
-        "name": "Detroit Mercy Titans",
+        "id": "94",
+        "abbr": "NKU",
+        "name": "Northern Kentucky Norse",
         "score": "0"
       }
     },
     {
-      "id": "401913884",
-      "name": "Queens University Royals at Vanderbilt Commodores",
-      "shortName": "QUC @ VAN",
-      "date": "2026-11-05T00:30Z",
+      "id": "401927082",
+      "name": "Central Michigan Chippewas at Ohio State Buckeyes",
+      "shortName": "CMU @ OSU",
+      "date": "2026-11-05T23:30Z",
       "state": "pre",
-      "status": "11/4 - 7:30 PM EST",
+      "status": "11/5 - 6:30 PM EST",
       "completed": false,
       "home": {
-        "id": "238",
-        "abbr": "VAN",
-        "name": "Vanderbilt Commodores",
+        "id": "194",
+        "abbr": "OSU",
+        "name": "Ohio State Buckeyes",
         "score": "0"
       },
       "away": {
-        "id": "2511",
-        "abbr": "QUC",
-        "name": "Queens University Royals",
+        "id": "2117",
+        "abbr": "CMU",
+        "name": "Central Michigan Chippewas",
         "score": "0"
       }
     },
     {
-      "id": "401918840",
-      "name": "Fairleigh Dickinson Knights at Texas Longhorns",
-      "shortName": "FDU @ TEX",
-      "date": "2026-11-05T01:00Z",
+      "id": "401924631",
+      "name": "North Alabama Lions at Ole Miss Rebels",
+      "shortName": "UNA @ MISS",
+      "date": "2026-11-06T00:00Z",
       "state": "pre",
-      "status": "11/4 - 8:00 PM EST",
+      "status": "11/5 - 7:00 PM EST",
       "completed": false,
       "home": {
-        "id": "251",
-        "abbr": "TEX",
-        "name": "Texas Longhorns",
+        "id": "145",
+        "abbr": "MISS",
+        "name": "Ole Miss Rebels",
         "score": "0"
       },
       "away": {
-        "id": "161",
-        "abbr": "FDU",
-        "name": "Fairleigh Dickinson Knights",
+        "id": "2453",
+        "abbr": "UNA",
+        "name": "North Alabama Lions",
         "score": "0"
       }
     },
     {
-      "id": "401906075",
-      "name": "Stetson Hatters at Louisville Cardinals",
-      "shortName": "STET @ LOU",
-      "date": "2026-11-05T01:00Z",
+      "id": "401907164",
+      "name": "George Washington Revolutionaries at West Virginia Mountaineers",
+      "shortName": "GW @ WVU",
+      "date": "2026-11-06T00:00Z",
       "state": "pre",
-      "status": "11/4 - 8:00 PM EST",
+      "status": "11/5 - 7:00 PM EST",
       "completed": false,
       "home": {
-        "id": "97",
-        "abbr": "LOU",
-        "name": "Louisville Cardinals",
+        "id": "277",
+        "abbr": "WVU",
+        "name": "West Virginia Mountaineers",
         "score": "0"
       },
       "away": {
-        "id": "56",
-        "abbr": "STET",
-        "name": "Stetson Hatters",
+        "id": "45",
+        "abbr": "GW",
+        "name": "George Washington Revolutionaries",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401917939",
+      "name": "Le Moyne Dolphins at TCU Horned Frogs",
+      "shortName": "LEM @ TCU",
+      "date": "2026-11-06T00:30Z",
+      "state": "pre",
+      "status": "11/5 - 7:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2628",
+        "abbr": "TCU",
+        "name": "TCU Horned Frogs",
+        "score": "0"
+      },
+      "away": {
+        "id": "2330",
+        "abbr": "LEM",
+        "name": "Le Moyne Dolphins",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401912965",
+      "name": "Texas Southern Tigers at LSU Tigers",
+      "shortName": "TXSO @ LSU",
+      "date": "2026-11-06T01:00Z",
+      "state": "pre",
+      "status": "11/5 - 8:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "99",
+        "abbr": "LSU",
+        "name": "LSU Tigers",
+        "score": "0"
+      },
+      "away": {
+        "id": "2640",
+        "abbr": "TXSO",
+        "name": "Texas Southern Tigers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401921425",
+      "name": "Eastern Illinois Panthers at Iowa Hawkeyes",
+      "shortName": "EIU @ IOWA",
+      "date": "2026-11-06T01:00Z",
+      "state": "pre",
+      "status": "11/5 - 8:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2294",
+        "abbr": "IOWA",
+        "name": "Iowa Hawkeyes",
+        "score": "0"
+      },
+      "away": {
+        "id": "2197",
+        "abbr": "EIU",
+        "name": "Eastern Illinois Panthers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401918897",
+      "name": "UC Irvine Anteaters at UCLA Bruins",
+      "shortName": "UCI @ UCLA",
+      "date": "2026-11-06T03:00Z",
+      "state": "pre",
+      "status": "11/5 - 10:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "26",
+        "abbr": "UCLA",
+        "name": "UCLA Bruins",
+        "score": "0"
+      },
+      "away": {
+        "id": "300",
+        "abbr": "UCI",
+        "name": "UC Irvine Anteaters",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401917684",
+      "name": "Pacific Tigers at Washington Huskies",
+      "shortName": "PAC @ WASH",
+      "date": "2026-11-06T03:00Z",
+      "state": "pre",
+      "status": "11/5 - 10:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "264",
+        "abbr": "WASH",
+        "name": "Washington Huskies",
+        "score": "0"
+      },
+      "away": {
+        "id": "279",
+        "abbr": "PAC",
+        "name": "Pacific Tigers",
         "score": "0"
       }
     }
