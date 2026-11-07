@@ -1,48 +1,69 @@
 {
   "sport": "basketball",
   "league": "womens-college-basketball",
-  "date": "20261106",
-  "count": 2,
+  "date": "20261107",
+  "count": 3,
   "games": [
     {
-      "id": "401907047",
-      "name": "Morgan State Lady Bears at Oklahoma State Cowgirls",
-      "shortName": "MORG @ OKST",
-      "date": "2026-11-06T23:00Z",
+      "id": "401918909",
+      "name": "Minnesota Golden Gophers at Marquette Golden Eagles",
+      "shortName": "MINN @ MARQ",
+      "date": "2026-11-07T20:00Z",
       "state": "pre",
-      "status": "11/6 - 6:00 PM EST",
+      "status": "11/7 - 3:00 PM EST",
       "completed": false,
       "home": {
-        "id": "197",
-        "abbr": "OKST",
-        "name": "Oklahoma State Cowgirls",
+        "id": "269",
+        "abbr": "MARQ",
+        "name": "Marquette Golden Eagles",
         "score": "0"
       },
       "away": {
-        "id": "2415",
-        "abbr": "MORG",
-        "name": "Morgan State Lady Bears",
+        "id": "135",
+        "abbr": "MINN",
+        "name": "Minnesota Golden Gophers",
         "score": "0"
       }
     },
     {
-      "id": "401919954",
-      "name": "Stonehill Skyhawks at Notre Dame Fighting Irish",
-      "shortName": "STO @ ND",
-      "date": "2026-11-07T00:00Z",
+      "id": "401927061",
+      "name": "Southern Jaguars at Illinois Fighting Illini",
+      "shortName": "SOU @ ILL",
+      "date": "2026-11-07T20:00Z",
       "state": "pre",
-      "status": "11/6 - 7:00 PM EST",
+      "status": "11/7 - 3:00 PM EST",
       "completed": false,
       "home": {
-        "id": "87",
-        "abbr": "ND",
-        "name": "Notre Dame Fighting Irish",
+        "id": "356",
+        "abbr": "ILL",
+        "name": "Illinois Fighting Illini",
         "score": "0"
       },
       "away": {
-        "id": "284",
-        "abbr": "STO",
-        "name": "Stonehill Skyhawks",
+        "id": "2582",
+        "abbr": "SOU",
+        "name": "Southern Jaguars",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401918841",
+      "name": "Northern Colorado Bears at Texas Longhorns",
+      "shortName": "UNCO @ TEX",
+      "date": "2026-11-08T01:00Z",
+      "state": "pre",
+      "status": "11/7 - 8:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "251",
+        "abbr": "TEX",
+        "name": "Texas Longhorns",
+        "score": "0"
+      },
+      "away": {
+        "id": "2458",
+        "abbr": "UNCO",
+        "name": "Northern Colorado Bears",
         "score": "0"
       }
     }
