@@ -1,258 +1,50 @@
 {
   "sport": "basketball",
   "league": "womens-college-basketball",
-  "date": "20261108",
-  "count": 12,
+  "date": "20261109",
+  "count": 2,
   "games": [
     {
-      "id": "401915907",
-      "name": "Duke Blue Devils at Florida Atlantic Owls",
-      "shortName": "DUKE VS FAU",
-      "date": "2026-11-08T18:00Z",
-      "state": "pre",
-      "status": "11/8 - 1:00 PM EST",
-      "completed": false,
+      "id": "401907048",
+      "name": "Northwestern State Lady Demons at Oklahoma State Cowgirls",
+      "shortName": "NWST @ OKST",
+      "date": "2026-11-09T17:00Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
       "home": {
-        "id": "2226",
-        "abbr": "FAU",
-        "name": "Florida Atlantic Owls",
-        "score": "0"
+        "id": "197",
+        "abbr": "OKST",
+        "name": "Oklahoma State Cowgirls",
+        "score": "94",
+        "winner": true
       },
       "away": {
-        "id": "150",
-        "abbr": "DUKE",
-        "name": "Duke Blue Devils",
-        "score": "0"
+        "id": "2466",
+        "abbr": "NWST",
+        "name": "Northwestern State Lady Demons",
+        "score": "56",
+        "winner": false
       }
     },
     {
-      "id": "401919942",
-      "name": "Mercyhurst Lakers at Ohio State Buckeyes",
-      "shortName": "MERC @ OSU",
-      "date": "2026-11-08T18:00Z",
+      "id": "401918828",
+      "name": "Morehead State Eagles at Vanderbilt Commodores",
+      "shortName": "MORE @ VAN",
+      "date": "2026-11-10T00:30Z",
       "state": "pre",
-      "status": "11/8 - 1:00 PM EST",
+      "status": "11/9 - 7:30 PM EST",
       "completed": false,
       "home": {
-        "id": "194",
-        "abbr": "OSU",
-        "name": "Ohio State Buckeyes",
+        "id": "238",
+        "abbr": "VAN",
+        "name": "Vanderbilt Commodores",
         "score": "0"
       },
       "away": {
-        "id": "2385",
-        "abbr": "MERC",
-        "name": "Mercyhurst Lakers",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401918915",
-      "name": "George Mason Patriots at Maryland Terrapins",
-      "shortName": "GMU @ MD",
-      "date": "2026-11-08T18:00Z",
-      "state": "pre",
-      "status": "11/8 - 1:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "120",
-        "abbr": "MD",
-        "name": "Maryland Terrapins",
-        "score": "0"
-      },
-      "away": {
-        "id": "2244",
-        "abbr": "GMU",
-        "name": "George Mason Patriots",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401911738",
-      "name": "Iowa Hawkeyes at UConn Huskies",
-      "shortName": "IOWA @ CONN",
-      "date": "2026-11-08T19:00Z",
-      "state": "pre",
-      "status": "11/8 - 2:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "41",
-        "abbr": "CONN",
-        "name": "UConn Huskies",
-        "score": "0"
-      },
-      "away": {
-        "id": "2294",
-        "abbr": "IOWA",
-        "name": "Iowa Hawkeyes",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401927068",
-      "name": "Wright State Raiders at Michigan Wolverines",
-      "shortName": "WRST @ MICH",
-      "date": "2026-11-08T19:00Z",
-      "state": "pre",
-      "status": "11/8 - 2:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "130",
-        "abbr": "MICH",
-        "name": "Michigan Wolverines",
-        "score": "0"
-      },
-      "away": {
-        "id": "2750",
-        "abbr": "WRST",
-        "name": "Wright State Raiders",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401907165",
-      "name": "West Virginia Mountaineers at Georgia Tech Yellow Jackets",
-      "shortName": "WVU @ GT",
-      "date": "2026-11-08T19:00Z",
-      "state": "pre",
-      "status": "11/8 - 2:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "59",
-        "abbr": "GT",
-        "name": "Georgia Tech Yellow Jackets",
-        "score": "0"
-      },
-      "away": {
-        "id": "277",
-        "abbr": "WVU",
-        "name": "West Virginia Mountaineers",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401913737",
-      "name": "Kentucky Wildcats at NC State Wolfpack",
-      "shortName": "UK VS NCSU",
-      "date": "2026-11-08T20:00Z",
-      "state": "pre",
-      "status": "11/8 - 3:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "152",
-        "abbr": "NCSU",
-        "name": "NC State Wolfpack",
-        "score": "0"
-      },
-      "away": {
-        "id": "96",
-        "abbr": "UK",
-        "name": "Kentucky Wildcats",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401917940",
-      "name": "Tarleton State Texans at TCU Horned Frogs",
-      "shortName": "TAR @ TCU",
-      "date": "2026-11-08T20:00Z",
-      "state": "pre",
-      "status": "11/8 - 3:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2628",
-        "abbr": "TCU",
-        "name": "TCU Horned Frogs",
-        "score": "0"
-      },
-      "away": {
-        "id": "2627",
-        "abbr": "TAR",
-        "name": "Tarleton State Texans",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401927414",
-      "name": "Morgan State Lady Bears at Oklahoma Sooners",
-      "shortName": "MORG @ OU",
-      "date": "2026-11-08T20:00Z",
-      "state": "pre",
-      "status": "11/8 - 3:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "201",
-        "abbr": "OU",
-        "name": "Oklahoma Sooners",
-        "score": "0"
-      },
-      "away": {
-        "id": "2415",
-        "abbr": "MORG",
-        "name": "Morgan State Lady Bears",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401906076",
-      "name": "Louisville Cardinals at Southern Indiana Screaming Eagles",
-      "shortName": "LOU @ USI",
-      "date": "2026-11-08T21:00Z",
-      "state": "pre",
-      "status": "11/8 - 4:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "88",
-        "abbr": "USI",
-        "name": "Southern Indiana Screaming Eagles",
-        "score": "0"
-      },
-      "away": {
-        "id": "97",
-        "abbr": "LOU",
-        "name": "Louisville Cardinals",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401906089",
-      "name": "North Carolina Tar Heels at South Carolina Gamecocks",
-      "shortName": "UNC VS SC",
-      "date": "2026-11-08T22:30Z",
-      "state": "pre",
-      "status": "11/8 - 5:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2579",
-        "abbr": "SC",
-        "name": "South Carolina Gamecocks",
-        "score": "0"
-      },
-      "away": {
-        "id": "153",
-        "abbr": "UNC",
-        "name": "North Carolina Tar Heels",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401927106",
-      "name": "Utah State Aggies at USC Trojans",
-      "shortName": "USU @ USC",
-      "date": "2026-11-09T01:00Z",
-      "state": "pre",
-      "status": "11/8 - 8:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "30",
-        "abbr": "USC",
-        "name": "USC Trojans",
-        "score": "0"
-      },
-      "away": {
-        "id": "328",
-        "abbr": "USU",
-        "name": "Utah State Aggies",
+        "id": "2413",
+        "abbr": "MORE",
+        "name": "Morehead State Eagles",
         "score": "0"
       }
     }
