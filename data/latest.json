@@ -1,50 +1,174 @@
 {
   "sport": "basketball",
   "league": "womens-college-basketball",
-  "date": "20261109",
-  "count": 2,
+  "date": "20261110",
+  "count": 8,
   "games": [
     {
-      "id": "401907048",
-      "name": "Northwestern State Lady Demons at Oklahoma State Cowgirls",
-      "shortName": "NWST @ OKST",
-      "date": "2026-11-09T17:00Z",
-      "state": "post",
-      "status": "Final",
-      "completed": true,
-      "home": {
-        "id": "197",
-        "abbr": "OKST",
-        "name": "Oklahoma State Cowgirls",
-        "score": "94",
-        "winner": true
-      },
-      "away": {
-        "id": "2466",
-        "abbr": "NWST",
-        "name": "Northwestern State Lady Demons",
-        "score": "56",
-        "winner": false
-      }
-    },
-    {
-      "id": "401918828",
-      "name": "Morehead State Eagles at Vanderbilt Commodores",
-      "shortName": "MORE @ VAN",
-      "date": "2026-11-10T00:30Z",
+      "id": "401915666",
+      "name": "Iona Gaels at TCU Horned Frogs",
+      "shortName": "IONA @ TCU",
+      "date": "2026-11-10T22:00Z",
       "state": "pre",
-      "status": "11/9 - 7:30 PM EST",
+      "status": "11/10 - 5:00 PM EST",
       "completed": false,
       "home": {
-        "id": "238",
-        "abbr": "VAN",
-        "name": "Vanderbilt Commodores",
+        "id": "2628",
+        "abbr": "TCU",
+        "name": "TCU Horned Frogs",
         "score": "0"
       },
       "away": {
-        "id": "2413",
-        "abbr": "MORE",
-        "name": "Morehead State Eagles",
+        "id": "314",
+        "abbr": "IONA",
+        "name": "Iona Gaels",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401906077",
+      "name": "Lindenwood Lions at Louisville Cardinals",
+      "shortName": "LIN @ LOU",
+      "date": "2026-11-11T00:00Z",
+      "state": "pre",
+      "status": "11/10 - 7:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "97",
+        "abbr": "LOU",
+        "name": "Louisville Cardinals",
+        "score": "0"
+      },
+      "away": {
+        "id": "2815",
+        "abbr": "LIN",
+        "name": "Lindenwood Lions",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401923182",
+      "name": "Detroit Mercy Titans at Notre Dame Fighting Irish",
+      "shortName": "DETM @ ND",
+      "date": "2026-11-11T00:00Z",
+      "state": "pre",
+      "status": "11/10 - 7:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "87",
+        "abbr": "ND",
+        "name": "Notre Dame Fighting Irish",
+        "score": "0"
+      },
+      "away": {
+        "id": "2174",
+        "abbr": "DETM",
+        "name": "Detroit Mercy Titans",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401929062",
+      "name": "San José State Spartans at Oklahoma Sooners",
+      "shortName": "SJSU @ OU",
+      "date": "2026-11-11T00:00Z",
+      "state": "pre",
+      "status": "11/10 - 7:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "201",
+        "abbr": "OU",
+        "name": "Oklahoma Sooners",
+        "score": "0"
+      },
+      "away": {
+        "id": "23",
+        "abbr": "SJSU",
+        "name": "San José State Spartans",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401912966",
+      "name": "McNeese Cowgirls at LSU Tigers",
+      "shortName": "MCN @ LSU",
+      "date": "2026-11-11T01:00Z",
+      "state": "pre",
+      "status": "11/10 - 8:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "99",
+        "abbr": "LSU",
+        "name": "LSU Tigers",
+        "score": "0"
+      },
+      "away": {
+        "id": "2377",
+        "abbr": "MCN",
+        "name": "McNeese Cowgirls",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401918910",
+      "name": "Southern Jaguars at Minnesota Golden Gophers",
+      "shortName": "SOU @ MINN",
+      "date": "2026-11-11T01:00Z",
+      "state": "pre",
+      "status": "11/10 - 8:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "135",
+        "abbr": "MINN",
+        "name": "Minnesota Golden Gophers",
+        "score": "0"
+      },
+      "away": {
+        "id": "2582",
+        "abbr": "SOU",
+        "name": "Southern Jaguars",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401921436",
+      "name": "North Carolina A&T Aggies at Nebraska Cornhuskers",
+      "shortName": "NCAT @ NEB",
+      "date": "2026-11-11T01:00Z",
+      "state": "pre",
+      "status": "11/10 - 8:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "158",
+        "abbr": "NEB",
+        "name": "Nebraska Cornhuskers",
+        "score": "0"
+      },
+      "away": {
+        "id": "2448",
+        "abbr": "NCAT",
+        "name": "North Carolina A&T Aggies",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401927107",
+      "name": "Charleston Cougars at USC Trojans",
+      "shortName": "COFC @ USC",
+      "date": "2026-11-11T03:30Z",
+      "state": "pre",
+      "status": "11/10 - 10:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "30",
+        "abbr": "USC",
+        "name": "USC Trojans",
+        "score": "0"
+      },
+      "away": {
+        "id": "232",
+        "abbr": "COFC",
+        "name": "Charleston Cougars",
         "score": "0"
       }
     }
