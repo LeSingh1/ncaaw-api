@@ -1,111 +1,216 @@
 {
   "sport": "basketball",
   "league": "womens-college-basketball",
-  "date": "20261111",
-  "count": 5,
+  "date": "20261112",
+  "count": 10,
   "games": [
     {
-      "id": "401919680",
-      "name": "Evansville Purple Aces at Kentucky Wildcats",
-      "shortName": "EVAN @ UK",
-      "date": "2026-11-11T23:30Z",
+      "id": "401907049",
+      "name": "Oklahoma State Cowgirls at Tulsa Golden Hurricane",
+      "shortName": "OKST @ TLSA",
+      "date": "2026-11-12T23:00Z",
       "state": "pre",
-      "status": "11/11 - 6:30 PM EST",
+      "status": "11/12 - 6:00 PM EST",
       "completed": false,
       "home": {
-        "id": "96",
-        "abbr": "UK",
-        "name": "Kentucky Wildcats",
+        "id": "202",
+        "abbr": "TLSA",
+        "name": "Tulsa Golden Hurricane",
         "score": "0"
       },
       "away": {
-        "id": "339",
-        "abbr": "EVAN",
-        "name": "Evansville Purple Aces",
+        "id": "197",
+        "abbr": "OKST",
+        "name": "Oklahoma State Cowgirls",
         "score": "0"
       }
     },
     {
-      "id": "401918842",
-      "name": "South Dakota State Jackrabbits at Texas Longhorns",
-      "shortName": "SDST @ TEX",
-      "date": "2026-11-12T00:00Z",
+      "id": "401911739",
+      "name": "UConn Huskies at Ohio State Buckeyes",
+      "shortName": "CONN @ OSU",
+      "date": "2026-11-12T23:30Z",
       "state": "pre",
-      "status": "11/11 - 7:00 PM EST",
+      "status": "11/12 - 6:30 PM EST",
       "completed": false,
       "home": {
-        "id": "251",
-        "abbr": "TEX",
-        "name": "Texas Longhorns",
+        "id": "194",
+        "abbr": "OSU",
+        "name": "Ohio State Buckeyes",
         "score": "0"
       },
       "away": {
-        "id": "2571",
-        "abbr": "SDST",
-        "name": "South Dakota State Jackrabbits",
+        "id": "41",
+        "abbr": "CONN",
+        "name": "UConn Huskies",
         "score": "0"
       }
     },
     {
-      "id": "401913800",
-      "name": "UAlbany Great Danes at Ole Miss Rebels",
-      "shortName": "UALB @ MISS",
-      "date": "2026-11-12T00:00Z",
+      "id": "401915886",
+      "name": "South Carolina Gamecocks at Clemson Tigers",
+      "shortName": "SC @ CLEM",
+      "date": "2026-11-13T00:00Z",
       "state": "pre",
-      "status": "11/11 - 7:00 PM EST",
+      "status": "11/12 - 7:00 PM EST",
       "completed": false,
       "home": {
-        "id": "145",
-        "abbr": "MISS",
-        "name": "Ole Miss Rebels",
+        "id": "228",
+        "abbr": "CLEM",
+        "name": "Clemson Tigers",
         "score": "0"
       },
       "away": {
-        "id": "399",
-        "abbr": "UALB",
-        "name": "UAlbany Great Danes",
+        "id": "2579",
+        "abbr": "SC",
+        "name": "South Carolina Gamecocks",
         "score": "0"
       }
     },
     {
-      "id": "401906090",
-      "name": "North Carolina Central Eagles at North Carolina Tar Heels",
-      "shortName": "NCCU @ UNC",
-      "date": "2026-11-12T00:00Z",
+      "id": "401919324",
+      "name": "Michigan Wolverines at Columbia Lions",
+      "shortName": "MICH @ COLU",
+      "date": "2026-11-13T00:00Z",
       "state": "pre",
-      "status": "11/11 - 7:00 PM EST",
+      "status": "11/12 - 7:00 PM EST",
       "completed": false,
       "home": {
-        "id": "153",
-        "abbr": "UNC",
-        "name": "North Carolina Tar Heels",
+        "id": "171",
+        "abbr": "COLU",
+        "name": "Columbia Lions",
         "score": "0"
       },
       "away": {
-        "id": "2428",
-        "abbr": "NCCU",
-        "name": "North Carolina Central Eagles",
+        "id": "130",
+        "abbr": "MICH",
+        "name": "Michigan Wolverines",
         "score": "0"
       }
     },
     {
-      "id": "401918829",
-      "name": "Western Kentucky Lady Toppers at Vanderbilt Commodores",
-      "shortName": "WKU @ VAN",
-      "date": "2026-11-12T00:30Z",
+      "id": "401915908",
+      "name": "Duke Blue Devils at Norfolk State Spartans",
+      "shortName": "DUKE @ NORF",
+      "date": "2026-11-13T00:00Z",
       "state": "pre",
-      "status": "11/11 - 7:30 PM EST",
+      "status": "11/12 - 7:00 PM EST",
       "completed": false,
       "home": {
-        "id": "238",
-        "abbr": "VAN",
-        "name": "Vanderbilt Commodores",
+        "id": "2450",
+        "abbr": "NORF",
+        "name": "Norfolk State Spartans",
         "score": "0"
       },
       "away": {
-        "id": "98",
-        "abbr": "WKU",
-        "name": "Western Kentucky Lady Toppers",
+        "id": "150",
+        "abbr": "DUKE",
+        "name": "Duke Blue Devils",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401917941",
+      "name": "SE Louisiana Lady Lions at TCU Horned Frogs",
+      "shortName": "SELA @ TCU",
+      "date": "2026-11-13T00:30Z",
+      "state": "pre",
+      "status": "11/12 - 7:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2628",
+        "abbr": "TCU",
+        "name": "TCU Horned Frogs",
+        "score": "0"
+      },
+      "away": {
+        "id": "2545",
+        "abbr": "SELA",
+        "name": "SE Louisiana Lady Lions",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401906078",
+      "name": "Louisville Cardinals at Ball State Cardinals",
+      "shortName": "LOU @ BALL",
+      "date": "2026-11-13T01:00Z",
+      "state": "pre",
+      "status": "11/12 - 8:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2050",
+        "abbr": "BALL",
+        "name": "Ball State Cardinals",
+        "score": "0"
+      },
+      "away": {
+        "id": "97",
+        "abbr": "LOU",
+        "name": "Louisville Cardinals",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401919981",
+      "name": "Northern Iowa Panthers at Iowa Hawkeyes",
+      "shortName": "UNI @ IOWA",
+      "date": "2026-11-13T01:30Z",
+      "state": "pre",
+      "status": "11/12 - 8:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2294",
+        "abbr": "IOWA",
+        "name": "Iowa Hawkeyes",
+        "score": "0"
+      },
+      "away": {
+        "id": "2460",
+        "abbr": "UNI",
+        "name": "Northern Iowa Panthers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401921495",
+      "name": "Cal State Bakersfield Roadrunners at Washington Huskies",
+      "shortName": "CSUB @ WASH",
+      "date": "2026-11-13T03:00Z",
+      "state": "pre",
+      "status": "11/12 - 10:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "264",
+        "abbr": "WASH",
+        "name": "Washington Huskies",
+        "score": "0"
+      },
+      "away": {
+        "id": "2934",
+        "abbr": "CSUB",
+        "name": "Cal State Bakersfield Roadrunners",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401913056",
+      "name": "Arizona Wildcats at UCLA Bruins",
+      "shortName": "ARIZ @ UCLA",
+      "date": "2026-11-13T03:30Z",
+      "state": "pre",
+      "status": "11/12 - 10:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "26",
+        "abbr": "UCLA",
+        "name": "UCLA Bruins",
+        "score": "0"
+      },
+      "away": {
+        "id": "12",
+        "abbr": "ARIZ",
+        "name": "Arizona Wildcats",
         "score": "0"
       }
     }
