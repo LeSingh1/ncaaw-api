@@ -1,260 +1,48 @@
 {
   "sport": "basketball",
   "league": "womens-college-basketball",
-  "date": "20261115",
-  "count": 12,
+  "date": "20261116",
+  "count": 2,
   "games": [
     {
-      "id": "401918850",
-      "name": "USC Trojans at South Carolina Gamecocks",
-      "shortName": "USC VS SC",
-      "date": "2026-11-15T18:00Z",
-      "state": "in",
-      "status": "1:42 - 2nd",
-      "completed": false,
-      "home": {
-        "id": "2579",
-        "abbr": "SC",
-        "name": "South Carolina Gamecocks",
-        "score": "46"
-      },
-      "away": {
-        "id": "30",
-        "abbr": "USC",
-        "name": "USC Trojans",
-        "score": "42"
-      }
-    },
-    {
-      "id": "401918830",
-      "name": "Vanderbilt Commodores at Iowa Hawkeyes",
-      "shortName": "VAN VS IOWA",
-      "date": "2026-11-15T18:00Z",
-      "state": "in",
-      "status": "Halftime",
-      "completed": false,
-      "home": {
-        "id": "2294",
-        "abbr": "IOWA",
-        "name": "Iowa Hawkeyes",
-        "score": "39"
-      },
-      "away": {
-        "id": "238",
-        "abbr": "VAN",
-        "name": "Vanderbilt Commodores",
-        "score": "20"
-      }
-    },
-    {
-      "id": "401919898",
-      "name": "Fairleigh Dickinson Knights at Ohio State Buckeyes",
-      "shortName": "FDU @ OSU",
-      "date": "2026-11-15T18:00Z",
-      "state": "in",
-      "status": "Halftime",
-      "completed": false,
-      "home": {
-        "id": "194",
-        "abbr": "OSU",
-        "name": "Ohio State Buckeyes",
-        "score": "53"
-      },
-      "away": {
-        "id": "161",
-        "abbr": "FDU",
-        "name": "Fairleigh Dickinson Knights",
-        "score": "25"
-      }
-    },
-    {
-      "id": "401918916",
-      "name": "Columbia Lions at Maryland Terrapins",
-      "shortName": "COLU @ MD",
-      "date": "2026-11-15T18:00Z",
-      "state": "in",
-      "status": "Halftime",
-      "completed": false,
-      "home": {
-        "id": "120",
-        "abbr": "MD",
-        "name": "Maryland Terrapins",
-        "score": "41"
-      },
-      "away": {
-        "id": "171",
-        "abbr": "COLU",
-        "name": "Columbia Lions",
-        "score": "14"
-      }
-    },
-    {
-      "id": "401929060",
-      "name": "Eastern Michigan Eagles at Kentucky Wildcats",
-      "shortName": "EMU @ UK",
-      "date": "2026-11-15T17:00Z",
-      "state": "post",
-      "status": "Final",
-      "completed": true,
-      "home": {
-        "id": "96",
-        "abbr": "UK",
-        "name": "Kentucky Wildcats",
-        "score": "81",
-        "winner": true
-      },
-      "away": {
-        "id": "2199",
-        "abbr": "EMU",
-        "name": "Eastern Michigan Eagles",
-        "score": "47",
-        "winner": false
-      }
-    },
-    {
-      "id": "401907050",
-      "name": "Oklahoma State Cowgirls at South Dakota State Jackrabbits",
-      "shortName": "OKST @ SDST",
-      "date": "2026-11-15T19:00Z",
+      "id": "401927069",
+      "name": "Michigan Wolverines at Central Michigan Chippewas",
+      "shortName": "MICH @ CMU",
+      "date": "2026-11-17T01:00Z",
       "state": "pre",
-      "status": "11/15 - 2:00 PM EST",
+      "status": "11/16 - 8:00 PM EST",
       "completed": false,
       "home": {
-        "id": "2571",
-        "abbr": "SDST",
-        "name": "South Dakota State Jackrabbits",
+        "id": "2117",
+        "abbr": "CMU",
+        "name": "Central Michigan Chippewas",
         "score": "0"
       },
       "away": {
-        "id": "197",
-        "abbr": "OKST",
-        "name": "Oklahoma State Cowgirls",
+        "id": "130",
+        "abbr": "MICH",
+        "name": "Michigan Wolverines",
         "score": "0"
       }
     },
     {
-      "id": "401915909",
-      "name": "Marshall Thundering Herd at Duke Blue Devils",
-      "shortName": "MRSH @ DUKE",
-      "date": "2026-11-15T20:00Z",
+      "id": "401912968",
+      "name": "Troy Trojans at LSU Tigers",
+      "shortName": "TROY @ LSU",
+      "date": "2026-11-17T01:00Z",
       "state": "pre",
-      "status": "11/15 - 3:00 PM EST",
+      "status": "11/16 - 8:00 PM EST",
       "completed": false,
       "home": {
-        "id": "150",
-        "abbr": "DUKE",
-        "name": "Duke Blue Devils",
+        "id": "99",
+        "abbr": "LSU",
+        "name": "LSU Tigers",
         "score": "0"
       },
       "away": {
-        "id": "276",
-        "abbr": "MRSH",
-        "name": "Marshall Thundering Herd",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401917942",
-      "name": "Abilene Christian Wildcats at TCU Horned Frogs",
-      "shortName": "ACU @ TCU",
-      "date": "2026-11-15T20:00Z",
-      "state": "pre",
-      "status": "11/15 - 3:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2628",
-        "abbr": "TCU",
-        "name": "TCU Horned Frogs",
-        "score": "0"
-      },
-      "away": {
-        "id": "2000",
-        "abbr": "ACU",
-        "name": "Abilene Christian Wildcats",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401924632",
-      "name": "Louisiana Tech Lady Techsters at Ole Miss Rebels",
-      "shortName": "LT @ MISS",
-      "date": "2026-11-15T20:00Z",
-      "state": "pre",
-      "status": "11/15 - 3:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "145",
-        "abbr": "MISS",
-        "name": "Ole Miss Rebels",
-        "score": "0"
-      },
-      "away": {
-        "id": "2348",
-        "abbr": "LT",
-        "name": "Louisiana Tech Lady Techsters",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401927062",
-      "name": "Southeast Missouri State Redhawks at Illinois Fighting Illini",
-      "shortName": "SEMO @ ILL",
-      "date": "2026-11-15T20:00Z",
-      "state": "pre",
-      "status": "11/15 - 3:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "356",
-        "abbr": "ILL",
-        "name": "Illinois Fighting Illini",
-        "score": "0"
-      },
-      "away": {
-        "id": "2546",
-        "abbr": "SEMO",
-        "name": "Southeast Missouri State Redhawks",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401906079",
-      "name": "UConn Huskies at Louisville Cardinals",
-      "shortName": "CONN @ LOU",
-      "date": "2026-11-15T22:30Z",
-      "state": "pre",
-      "status": "11/15 - 5:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "97",
-        "abbr": "LOU",
-        "name": "Louisville Cardinals",
-        "score": "0"
-      },
-      "away": {
-        "id": "41",
-        "abbr": "CONN",
-        "name": "UConn Huskies",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401915326",
-      "name": "Princeton Tigers at UCLA Bruins",
-      "shortName": "PRIN @ UCLA",
-      "date": "2026-11-15T23:00Z",
-      "state": "pre",
-      "status": "11/15 - 6:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "26",
-        "abbr": "UCLA",
-        "name": "UCLA Bruins",
-        "score": "0"
-      },
-      "away": {
-        "id": "163",
-        "abbr": "PRIN",
-        "name": "Princeton Tigers",
+        "id": "2653",
+        "abbr": "TROY",
+        "name": "Troy Trojans",
         "score": "0"
       }
     }
