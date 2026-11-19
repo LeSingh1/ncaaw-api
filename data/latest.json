@@ -1,216 +1,134 @@
 {
   "sport": "basketball",
   "league": "womens-college-basketball",
-  "date": "20261118",
-  "count": 10,
+  "date": "20261119",
+  "count": 6,
   "games": [
     {
-      "id": "401918917",
-      "name": "Coppin State Eagles at Maryland Terrapins",
-      "shortName": "COPP @ MD",
-      "date": "2026-11-18T23:00Z",
+      "id": "401911746",
+      "name": "Fordham Rams at Duke Blue Devils",
+      "shortName": "FOR @ DUKE",
+      "date": "2026-11-19T16:00Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
+      "home": {
+        "id": "150",
+        "abbr": "DUKE",
+        "name": "Duke Blue Devils",
+        "score": "111",
+        "winner": true
+      },
+      "away": {
+        "id": "2230",
+        "abbr": "FOR",
+        "name": "Fordham Rams",
+        "score": "44",
+        "winner": false
+      }
+    },
+    {
+      "id": "401906092",
+      "name": "Texas Tech Lady Raiders at North Carolina Tar Heels",
+      "shortName": "TTU VS UNC",
+      "date": "2026-11-19T23:00Z",
       "state": "pre",
-      "status": "11/18 - 6:00 PM EST",
+      "status": "11/19 - 6:00 PM EST",
       "completed": false,
       "home": {
-        "id": "120",
-        "abbr": "MD",
-        "name": "Maryland Terrapins",
+        "id": "153",
+        "abbr": "UNC",
+        "name": "North Carolina Tar Heels",
         "score": "0"
       },
       "away": {
-        "id": "2154",
-        "abbr": "COPP",
-        "name": "Coppin State Eagles",
+        "id": "2641",
+        "abbr": "TTU",
+        "name": "Texas Tech Lady Raiders",
         "score": "0"
       }
     },
     {
-      "id": "401927063",
-      "name": "Illinois Fighting Illini at Ball State Cardinals",
-      "shortName": "ILL @ BALL",
-      "date": "2026-11-18T23:30Z",
+      "id": "401922832",
+      "name": "Northwestern State Lady Demons at Oklahoma Sooners",
+      "shortName": "NWST @ OU",
+      "date": "2026-11-20T00:00Z",
       "state": "pre",
-      "status": "11/18 - 6:30 PM EST",
+      "status": "11/19 - 7:00 PM EST",
       "completed": false,
       "home": {
-        "id": "2050",
-        "abbr": "BALL",
-        "name": "Ball State Cardinals",
+        "id": "201",
+        "abbr": "OU",
+        "name": "Oklahoma Sooners",
         "score": "0"
       },
       "away": {
-        "id": "356",
-        "abbr": "ILL",
-        "name": "Illinois Fighting Illini",
+        "id": "2466",
+        "abbr": "NWST",
+        "name": "Northwestern State Lady Demons",
         "score": "0"
       }
     },
     {
-      "id": "401916196",
-      "name": "Niagara Purple Eagles at Michigan Wolverines",
-      "shortName": "NIA @ MICH",
-      "date": "2026-11-19T00:00Z",
+      "id": "401921426",
+      "name": "Montana State Bobcats at Iowa Hawkeyes",
+      "shortName": "MTST @ IOWA",
+      "date": "2026-11-20T01:00Z",
       "state": "pre",
-      "status": "11/18 - 7:00 PM EST",
+      "status": "11/19 - 8:00 PM EST",
       "completed": false,
       "home": {
-        "id": "130",
-        "abbr": "MICH",
-        "name": "Michigan Wolverines",
+        "id": "2294",
+        "abbr": "IOWA",
+        "name": "Iowa Hawkeyes",
         "score": "0"
       },
       "away": {
-        "id": "315",
-        "abbr": "NIA",
-        "name": "Niagara Purple Eagles",
+        "id": "147",
+        "abbr": "MTST",
+        "name": "Montana State Bobcats",
         "score": "0"
       }
     },
     {
-      "id": "401923184",
-      "name": "Southern Jaguars at Notre Dame Fighting Irish",
-      "shortName": "SOU @ ND",
-      "date": "2026-11-19T00:00Z",
+      "id": "401912969",
+      "name": "Fairleigh Dickinson Knights at LSU Tigers",
+      "shortName": "FDU @ LSU",
+      "date": "2026-11-20T01:00Z",
       "state": "pre",
-      "status": "11/18 - 7:00 PM EST",
+      "status": "11/19 - 8:00 PM EST",
       "completed": false,
       "home": {
-        "id": "87",
-        "abbr": "ND",
-        "name": "Notre Dame Fighting Irish",
+        "id": "99",
+        "abbr": "LSU",
+        "name": "LSU Tigers",
         "score": "0"
       },
       "away": {
-        "id": "2582",
-        "abbr": "SOU",
-        "name": "Southern Jaguars",
+        "id": "161",
+        "abbr": "FDU",
+        "name": "Fairleigh Dickinson Knights",
         "score": "0"
       }
     },
     {
-      "id": "401924633",
-      "name": "Ole Miss Rebels at Ohio State Buckeyes",
-      "shortName": "MISS @ OSU",
-      "date": "2026-11-19T00:00Z",
+      "id": "401918898",
+      "name": "Cal Poly Mustangs at UCLA Bruins",
+      "shortName": "CP @ UCLA",
+      "date": "2026-11-20T03:00Z",
       "state": "pre",
-      "status": "11/18 - 7:00 PM EST",
+      "status": "11/19 - 10:00 PM EST",
       "completed": false,
       "home": {
-        "id": "194",
-        "abbr": "OSU",
-        "name": "Ohio State Buckeyes",
+        "id": "26",
+        "abbr": "UCLA",
+        "name": "UCLA Bruins",
         "score": "0"
       },
       "away": {
-        "id": "145",
-        "abbr": "MISS",
-        "name": "Ole Miss Rebels",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401918843",
-      "name": "Texas Longhorns at Green Bay Phoenix",
-      "shortName": "TEX @ GB",
-      "date": "2026-11-19T00:30Z",
-      "state": "pre",
-      "status": "11/18 - 7:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2739",
-        "abbr": "GB",
-        "name": "Green Bay Phoenix",
-        "score": "0"
-      },
-      "away": {
-        "id": "251",
-        "abbr": "TEX",
-        "name": "Texas Longhorns",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401918831",
-      "name": "North Alabama Lions at Vanderbilt Commodores",
-      "shortName": "UNA @ VAN",
-      "date": "2026-11-19T00:30Z",
-      "state": "pre",
-      "status": "11/18 - 7:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "238",
-        "abbr": "VAN",
-        "name": "Vanderbilt Commodores",
-        "score": "0"
-      },
-      "away": {
-        "id": "2453",
-        "abbr": "UNA",
-        "name": "North Alabama Lions",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401918003",
-      "name": "UT Arlington Mavericks at TCU Horned Frogs",
-      "shortName": "UTA @ TCU",
-      "date": "2026-11-19T00:30Z",
-      "state": "pre",
-      "status": "11/18 - 7:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "2628",
-        "abbr": "TCU",
-        "name": "TCU Horned Frogs",
-        "score": "0"
-      },
-      "away": {
-        "id": "250",
-        "abbr": "UTA",
-        "name": "UT Arlington Mavericks",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401907051",
-      "name": "St. John's Red Storm at Oklahoma State Cowgirls",
-      "shortName": "SJU @ OKST",
-      "date": "2026-11-19T00:30Z",
-      "state": "pre",
-      "status": "11/18 - 7:30 PM EST",
-      "completed": false,
-      "home": {
-        "id": "197",
-        "abbr": "OKST",
-        "name": "Oklahoma State Cowgirls",
-        "score": "0"
-      },
-      "away": {
-        "id": "2599",
-        "abbr": "SJU",
-        "name": "St. John's Red Storm",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401906966",
-      "name": "Kansas Jayhawks at Minnesota Golden Gophers",
-      "shortName": "KU @ MINN",
-      "date": "2026-11-19T01:00Z",
-      "state": "pre",
-      "status": "11/18 - 8:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "135",
-        "abbr": "MINN",
-        "name": "Minnesota Golden Gophers",
-        "score": "0"
-      },
-      "away": {
-        "id": "2305",
-        "abbr": "KU",
-        "name": "Kansas Jayhawks",
+        "id": "13",
+        "abbr": "CP",
+        "name": "Cal Poly Mustangs",
         "score": "0"
       }
     }
