@@ -1,134 +1,111 @@
 {
   "sport": "basketball",
   "league": "womens-college-basketball",
-  "date": "20261119",
-  "count": 6,
+  "date": "20261120",
+  "count": 5,
   "games": [
     {
-      "id": "401911746",
-      "name": "Fordham Rams at Duke Blue Devils",
-      "shortName": "FOR @ DUKE",
-      "date": "2026-11-19T16:00Z",
-      "state": "post",
-      "status": "Final",
-      "completed": true,
-      "home": {
-        "id": "150",
-        "abbr": "DUKE",
-        "name": "Duke Blue Devils",
-        "score": "111",
-        "winner": true
-      },
-      "away": {
-        "id": "2230",
-        "abbr": "FOR",
-        "name": "Fordham Rams",
-        "score": "44",
-        "winner": false
-      }
-    },
-    {
-      "id": "401906092",
-      "name": "Texas Tech Lady Raiders at North Carolina Tar Heels",
-      "shortName": "TTU VS UNC",
-      "date": "2026-11-19T23:00Z",
+      "id": "401918660",
+      "name": "Marshall Thundering Herd at Kentucky Wildcats",
+      "shortName": "MRSH @ UK",
+      "date": "2026-11-20T23:00Z",
       "state": "pre",
-      "status": "11/19 - 6:00 PM EST",
+      "status": "11/20 - 6:00 PM EST",
       "completed": false,
       "home": {
-        "id": "153",
-        "abbr": "UNC",
-        "name": "North Carolina Tar Heels",
+        "id": "96",
+        "abbr": "UK",
+        "name": "Kentucky Wildcats",
         "score": "0"
       },
       "away": {
-        "id": "2641",
-        "abbr": "TTU",
-        "name": "Texas Tech Lady Raiders",
+        "id": "276",
+        "abbr": "MRSH",
+        "name": "Marshall Thundering Herd",
         "score": "0"
       }
     },
     {
-      "id": "401922832",
-      "name": "Northwestern State Lady Demons at Oklahoma Sooners",
-      "shortName": "NWST @ OU",
-      "date": "2026-11-20T00:00Z",
+      "id": "401907052",
+      "name": "Little Rock Trojans at Oklahoma State Cowgirls",
+      "shortName": "LR @ OKST",
+      "date": "2026-11-21T00:30Z",
       "state": "pre",
-      "status": "11/19 - 7:00 PM EST",
+      "status": "11/20 - 7:30 PM EST",
       "completed": false,
       "home": {
-        "id": "201",
-        "abbr": "OU",
-        "name": "Oklahoma Sooners",
+        "id": "197",
+        "abbr": "OKST",
+        "name": "Oklahoma State Cowgirls",
         "score": "0"
       },
       "away": {
-        "id": "2466",
-        "abbr": "NWST",
-        "name": "Northwestern State Lady Demons",
+        "id": "2031",
+        "abbr": "LR",
+        "name": "Little Rock Trojans",
         "score": "0"
       }
     },
     {
-      "id": "401921426",
-      "name": "Montana State Bobcats at Iowa Hawkeyes",
-      "shortName": "MTST @ IOWA",
-      "date": "2026-11-20T01:00Z",
+      "id": "401923012",
+      "name": "Seton Hall Pirates at UConn Huskies",
+      "shortName": "HALL @ CONN",
+      "date": "2026-11-21T01:00Z",
       "state": "pre",
-      "status": "11/19 - 8:00 PM EST",
+      "status": "11/20 - 8:00 PM EST",
       "completed": false,
       "home": {
-        "id": "2294",
-        "abbr": "IOWA",
-        "name": "Iowa Hawkeyes",
+        "id": "41",
+        "abbr": "CONN",
+        "name": "UConn Huskies",
         "score": "0"
       },
       "away": {
-        "id": "147",
-        "abbr": "MTST",
-        "name": "Montana State Bobcats",
+        "id": "2550",
+        "abbr": "HALL",
+        "name": "Seton Hall Pirates",
         "score": "0"
       }
     },
     {
-      "id": "401912969",
-      "name": "Fairleigh Dickinson Knights at LSU Tigers",
-      "shortName": "FDU @ LSU",
-      "date": "2026-11-20T01:00Z",
+      "id": "401915982",
+      "name": "Stanford Cardinal at Washington Huskies",
+      "shortName": "STAN @ WASH",
+      "date": "2026-11-21T03:00Z",
       "state": "pre",
-      "status": "11/19 - 8:00 PM EST",
+      "status": "11/20 - 10:00 PM EST",
       "completed": false,
       "home": {
-        "id": "99",
-        "abbr": "LSU",
-        "name": "LSU Tigers",
+        "id": "264",
+        "abbr": "WASH",
+        "name": "Washington Huskies",
         "score": "0"
       },
       "away": {
-        "id": "161",
-        "abbr": "FDU",
-        "name": "Fairleigh Dickinson Knights",
+        "id": "24",
+        "abbr": "STAN",
+        "name": "Stanford Cardinal",
         "score": "0"
       }
     },
     {
-      "id": "401918898",
-      "name": "Cal Poly Mustangs at UCLA Bruins",
-      "shortName": "CP @ UCLA",
-      "date": "2026-11-20T03:00Z",
+      "id": "401918467",
+      "name": "Baylor Bears at USC Trojans",
+      "shortName": "BAY VS USC",
+      "date": "2026-11-21T04:00Z",
       "state": "pre",
-      "status": "11/19 - 10:00 PM EST",
+      "status": "11/20 - 11:00 PM EST",
       "completed": false,
       "home": {
-        "id": "26",
-        "abbr": "UCLA",
-        "name": "UCLA Bruins",
+        "id": "30",
+        "abbr": "USC",
+        "name": "USC Trojans",
         "score": "0"
       },
       "away": {
-        "id": "13",
-        "abbr": "CP",
-        "name": "Cal Poly Mustangs",
+        "id": "239",
+        "abbr": "BAY",
+        "name": "Baylor Bears",
         "score": "0"
       }
     }
