@@ -1,111 +1,113 @@
 {
   "sport": "basketball",
   "league": "womens-college-basketball",
-  "date": "20261120",
+  "date": "20261121",
   "count": 5,
   "games": [
     {
-      "id": "401918660",
-      "name": "Marshall Thundering Herd at Kentucky Wildcats",
-      "shortName": "MRSH @ UK",
-      "date": "2026-11-20T23:00Z",
-      "state": "pre",
-      "status": "11/20 - 6:00 PM EST",
+      "id": "401913038",
+      "name": "South Carolina Gamecocks at Providence Friars",
+      "shortName": "SC @ PROV",
+      "date": "2026-11-21T18:30Z",
+      "state": "in",
+      "status": "0:00 - 2nd",
       "completed": false,
       "home": {
-        "id": "96",
-        "abbr": "UK",
-        "name": "Kentucky Wildcats",
+        "id": "2507",
+        "abbr": "PROV",
+        "name": "Providence Friars",
+        "score": "14"
+      },
+      "away": {
+        "id": "2579",
+        "abbr": "SC",
+        "name": "South Carolina Gamecocks",
+        "score": "35"
+      }
+    },
+    {
+      "id": "401918918",
+      "name": "Morgan State Lady Bears at Maryland Terrapins",
+      "shortName": "MORG @ MD",
+      "date": "2026-11-21T17:00Z",
+      "state": "post",
+      "status": "Final",
+      "completed": true,
+      "home": {
+        "id": "120",
+        "abbr": "MD",
+        "name": "Maryland Terrapins",
+        "score": "109",
+        "winner": true
+      },
+      "away": {
+        "id": "2415",
+        "abbr": "MORG",
+        "name": "Morgan State Lady Bears",
+        "score": "39",
+        "winner": false
+      }
+    },
+    {
+      "id": "401906093",
+      "name": "Alabama Crimson Tide at North Carolina Tar Heels",
+      "shortName": "ALA VS UNC",
+      "date": "2026-11-21T22:00Z",
+      "state": "pre",
+      "status": "11/21 - 5:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "153",
+        "abbr": "UNC",
+        "name": "North Carolina Tar Heels",
         "score": "0"
       },
       "away": {
-        "id": "276",
-        "abbr": "MRSH",
-        "name": "Marshall Thundering Herd",
+        "id": "333",
+        "abbr": "ALA",
+        "name": "Alabama Crimson Tide",
         "score": "0"
       }
     },
     {
-      "id": "401907052",
-      "name": "Little Rock Trojans at Oklahoma State Cowgirls",
-      "shortName": "LR @ OKST",
-      "date": "2026-11-21T00:30Z",
+      "id": "401915910",
+      "name": "Duke Blue Devils at Columbia Lions",
+      "shortName": "DUKE @ COLU",
+      "date": "2026-11-22T00:00Z",
       "state": "pre",
-      "status": "11/20 - 7:30 PM EST",
+      "status": "11/21 - 7:00 PM EST",
       "completed": false,
       "home": {
-        "id": "197",
-        "abbr": "OKST",
-        "name": "Oklahoma State Cowgirls",
+        "id": "171",
+        "abbr": "COLU",
+        "name": "Columbia Lions",
         "score": "0"
       },
       "away": {
-        "id": "2031",
-        "abbr": "LR",
-        "name": "Little Rock Trojans",
+        "id": "150",
+        "abbr": "DUKE",
+        "name": "Duke Blue Devils",
         "score": "0"
       }
     },
     {
-      "id": "401923012",
-      "name": "Seton Hall Pirates at UConn Huskies",
-      "shortName": "HALL @ CONN",
-      "date": "2026-11-21T01:00Z",
+      "id": "401906081",
+      "name": "Louisville Cardinals at Alaska Anchorage Seawolves",
+      "shortName": "LOU @ UAA",
+      "date": "2026-11-22T04:30Z",
       "state": "pre",
-      "status": "11/20 - 8:00 PM EST",
+      "status": "11/21 - 11:30 PM EST",
       "completed": false,
       "home": {
-        "id": "41",
-        "abbr": "CONN",
-        "name": "UConn Huskies",
+        "id": "1",
+        "abbr": "UAA",
+        "name": "Alaska Anchorage Seawolves",
         "score": "0"
       },
       "away": {
-        "id": "2550",
-        "abbr": "HALL",
-        "name": "Seton Hall Pirates",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401915982",
-      "name": "Stanford Cardinal at Washington Huskies",
-      "shortName": "STAN @ WASH",
-      "date": "2026-11-21T03:00Z",
-      "state": "pre",
-      "status": "11/20 - 10:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "264",
-        "abbr": "WASH",
-        "name": "Washington Huskies",
-        "score": "0"
-      },
-      "away": {
-        "id": "24",
-        "abbr": "STAN",
-        "name": "Stanford Cardinal",
-        "score": "0"
-      }
-    },
-    {
-      "id": "401918467",
-      "name": "Baylor Bears at USC Trojans",
-      "shortName": "BAY VS USC",
-      "date": "2026-11-21T04:00Z",
-      "state": "pre",
-      "status": "11/20 - 11:00 PM EST",
-      "completed": false,
-      "home": {
-        "id": "30",
-        "abbr": "USC",
-        "name": "USC Trojans",
-        "score": "0"
-      },
-      "away": {
-        "id": "239",
-        "abbr": "BAY",
-        "name": "Baylor Bears",
+        "id": "97",
+        "abbr": "LOU",
+        "name": "Louisville Cardinals",
         "score": "0"
       }
     }
