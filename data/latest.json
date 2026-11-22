@@ -1,107 +1,189 @@
 {
   "sport": "basketball",
   "league": "womens-college-basketball",
-  "date": "20261121",
-  "count": 5,
+  "date": "20261122",
+  "count": 9,
   "games": [
     {
-      "id": "401913038",
-      "name": "South Carolina Gamecocks at Providence Friars",
-      "shortName": "SC @ PROV",
-      "date": "2026-11-21T18:30Z",
+      "id": "401918844",
+      "name": "Ohio State Buckeyes at Texas Longhorns",
+      "shortName": "OSU VS TEX",
+      "date": "2026-11-22T18:00Z",
       "state": "in",
-      "status": "0:00 - 2nd",
+      "status": "8:20 - 4th",
       "completed": false,
       "home": {
-        "id": "2507",
-        "abbr": "PROV",
-        "name": "Providence Friars",
-        "score": "14"
+        "id": "251",
+        "abbr": "TEX",
+        "name": "Texas Longhorns",
+        "score": "66"
       },
       "away": {
-        "id": "2579",
-        "abbr": "SC",
-        "name": "South Carolina Gamecocks",
-        "score": "35"
+        "id": "194",
+        "abbr": "OSU",
+        "name": "Ohio State Buckeyes",
+        "score": "43"
       }
     },
     {
-      "id": "401918918",
-      "name": "Morgan State Lady Bears at Maryland Terrapins",
-      "shortName": "MORG @ MD",
-      "date": "2026-11-21T17:00Z",
-      "state": "post",
-      "status": "Final",
-      "completed": true,
+      "id": "401911795",
+      "name": "Nebraska Cornhuskers at Creighton Bluejays",
+      "shortName": "NEB @ CREI",
+      "date": "2026-11-22T19:00Z",
+      "state": "in",
+      "status": "4:14 - 2nd",
+      "completed": false,
       "home": {
-        "id": "120",
-        "abbr": "MD",
-        "name": "Maryland Terrapins",
-        "score": "109",
-        "winner": true
+        "id": "156",
+        "abbr": "CREI",
+        "name": "Creighton Bluejays",
+        "score": "19"
       },
       "away": {
-        "id": "2415",
-        "abbr": "MORG",
-        "name": "Morgan State Lady Bears",
-        "score": "39",
-        "winner": false
+        "id": "158",
+        "abbr": "NEB",
+        "name": "Nebraska Cornhuskers",
+        "score": "20"
       }
     },
     {
-      "id": "401906093",
-      "name": "Alabama Crimson Tide at North Carolina Tar Heels",
-      "shortName": "ALA VS UNC",
-      "date": "2026-11-21T22:00Z",
+      "id": "401918911",
+      "name": "Central Michigan Chippewas at Minnesota Golden Gophers",
+      "shortName": "CMU @ MINN",
+      "date": "2026-11-22T20:00Z",
       "state": "pre",
-      "status": "11/21 - 5:00 PM EST",
+      "status": "11/22 - 3:00 PM EST",
       "completed": false,
       "home": {
-        "id": "153",
-        "abbr": "UNC",
-        "name": "North Carolina Tar Heels",
+        "id": "135",
+        "abbr": "MINN",
+        "name": "Minnesota Golden Gophers",
         "score": "0"
       },
       "away": {
-        "id": "333",
-        "abbr": "ALA",
-        "name": "Alabama Crimson Tide",
+        "id": "2117",
+        "abbr": "CMU",
+        "name": "Central Michigan Chippewas",
         "score": "0"
       }
     },
     {
-      "id": "401915910",
-      "name": "Duke Blue Devils at Columbia Lions",
-      "shortName": "DUKE @ COLU",
-      "date": "2026-11-22T00:00Z",
+      "id": "401924634",
+      "name": "Alabama A&M Bulldogs at Ole Miss Rebels",
+      "shortName": "AAMU @ MISS",
+      "date": "2026-11-22T20:00Z",
       "state": "pre",
-      "status": "11/21 - 7:00 PM EST",
+      "status": "11/22 - 3:00 PM EST",
       "completed": false,
       "home": {
-        "id": "171",
-        "abbr": "COLU",
-        "name": "Columbia Lions",
+        "id": "145",
+        "abbr": "MISS",
+        "name": "Ole Miss Rebels",
         "score": "0"
       },
       "away": {
-        "id": "150",
-        "abbr": "DUKE",
-        "name": "Duke Blue Devils",
+        "id": "2010",
+        "abbr": "AAMU",
+        "name": "Alabama A&M Bulldogs",
         "score": "0"
       }
     },
     {
-      "id": "401906081",
-      "name": "Louisville Cardinals at Alaska Anchorage Seawolves",
-      "shortName": "LOU @ UAA",
-      "date": "2026-11-22T04:30Z",
+      "id": "401918004",
+      "name": "Utah State Aggies at TCU Horned Frogs",
+      "shortName": "USU VS TCU",
+      "date": "2026-11-22T20:30Z",
       "state": "pre",
-      "status": "11/21 - 11:30 PM EST",
+      "status": "11/22 - 3:30 PM EST",
       "completed": false,
       "home": {
-        "id": "1",
-        "abbr": "UAA",
-        "name": "Alaska Anchorage Seawolves",
+        "id": "2628",
+        "abbr": "TCU",
+        "name": "TCU Horned Frogs",
+        "score": "0"
+      },
+      "away": {
+        "id": "328",
+        "abbr": "USU",
+        "name": "Utah State Aggies",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401921465",
+      "name": "Cal Poly Mustangs at Washington Huskies",
+      "shortName": "CP @ WASH",
+      "date": "2026-11-22T22:00Z",
+      "state": "pre",
+      "status": "11/22 - 5:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "264",
+        "abbr": "WASH",
+        "name": "Washington Huskies",
+        "score": "0"
+      },
+      "away": {
+        "id": "13",
+        "abbr": "CP",
+        "name": "Cal Poly Mustangs",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401907053",
+      "name": "Wichita State Shockers at Oklahoma State Cowgirls",
+      "shortName": "WICH VS OKST",
+      "date": "2026-11-22T22:00Z",
+      "state": "pre",
+      "status": "11/22 - 5:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "197",
+        "abbr": "OKST",
+        "name": "Oklahoma State Cowgirls",
+        "score": "0"
+      },
+      "away": {
+        "id": "2724",
+        "abbr": "WICH",
+        "name": "Wichita State Shockers",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401912957",
+      "name": "UCLA Bruins at Tennessee Lady Volunteers",
+      "shortName": "UCLA @ TENN",
+      "date": "2026-11-22T22:30Z",
+      "state": "pre",
+      "status": "11/22 - 5:30 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2633",
+        "abbr": "TENN",
+        "name": "Tennessee Lady Volunteers",
+        "score": "0"
+      },
+      "away": {
+        "id": "26",
+        "abbr": "UCLA",
+        "name": "UCLA Bruins",
+        "score": "0"
+      }
+    },
+    {
+      "id": "401929635",
+      "name": "Louisville Cardinals at Seattle U Redhawks",
+      "shortName": "LOU VS SEA",
+      "date": "2026-11-22T23:00Z",
+      "state": "pre",
+      "status": "11/22 - 6:00 PM EST",
+      "completed": false,
+      "home": {
+        "id": "2547",
+        "abbr": "SEA",
+        "name": "Seattle U Redhawks",
         "score": "0"
       },
       "away": {
